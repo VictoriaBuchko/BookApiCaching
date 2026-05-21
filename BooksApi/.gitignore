@@ -1,0 +1,30 @@
+﻿# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.sln.user
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+
+# Rider / ReSharper
+.idea/
+*.sln.iml
+_ReSharper*/
+*.[Rr]e[Ss]harper.user
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
